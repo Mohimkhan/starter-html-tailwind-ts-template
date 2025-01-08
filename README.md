@@ -1,0 +1,1 @@
+### It's a starter template project for html, tailwind css, typescript
